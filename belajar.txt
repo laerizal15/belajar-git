@@ -1,4 +1,3 @@
 Pada bagian ini saya belajar github
-- saya sudah memulai beberapa kali untuk mengubah file
 - nanti saya akan belajar git juga
 - saya kedepannya akan menggunakan github untuk menyimpan seluruh file sorce code saya
